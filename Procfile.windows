@@ -1,0 +1,1 @@
+web: python web-back-islam\shop\manage.py runserver 

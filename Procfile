@@ -1,1 +1,1 @@
-web: gunicorn web-back-islam.shop.alatoo_store.wsgi.py --log-file -
+web: gunicorn alatoo_store.wsgi.py --log-file -
